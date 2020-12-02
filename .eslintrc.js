@@ -13,6 +13,7 @@ module.exports = {
     //强制使用单引号
     quotes: ['error', 'single'],
     //强制不使用分号结尾
-    semi: ['error', 'never']
+    semi: ['error', 'never'],
+    'space-before-function-paren': 0
   }
 }
