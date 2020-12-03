@@ -7,7 +7,10 @@ import {
   MenuItem,
   RadioButton,
   RadioGroup,
-  DatePicker
+  DatePicker,
+  Table,
+  TableColumn,
+  Pagination
 } from 'element-ui'
 
 Vue.use(Card)
@@ -18,3 +21,6 @@ Vue.use(Card)
   .use(RadioButton)
   .use(RadioGroup)
   .use(DatePicker)
+  .use(Table)
+  .use(TableColumn)
+  .use(Pagination)
