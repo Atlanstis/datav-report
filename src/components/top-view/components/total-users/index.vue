@@ -117,8 +117,4 @@ export default {
     margin-left: 10px;
   }
 }
-#total-users-chart {
-  width: 100%;
-  height: 100%;
-}
 </style>
