@@ -27,7 +27,6 @@ export default {
 
 <style>
 .home {
-  height: 100%;
   width: 100%;
   padding: 20px;
   background: #eee;
