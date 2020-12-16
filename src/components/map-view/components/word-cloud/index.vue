@@ -15,19 +15,19 @@ export default {
         rows: [
           {
             word: '赛博朋克2077',
-            count: 100 * Math.random()
+            count: Number((100 * Math.random()).toFixed(2))
           },
           {
             word: '最终幻想7',
-            count: 100 * Math.random()
+            count: Number((100 * Math.random()).toFixed(2))
           },
           {
             word: '英灵殿',
-            count: 100 * Math.random()
+            count: Number((100 * Math.random()).toFixed(2))
           },
           {
             word: '莱莎',
-            count: 100 * Math.random()
+            count: Number((100 * Math.random()).toFixed(2))
           }
         ]
       },
